@@ -13,4 +13,6 @@ SRC_URI = " \
 	file://fsbl-fixups.patch \
 	file://0001-versal_fw-Fixup-core-makefiles.patch \
 	file://0001-sw_apps-zynqmp_pmufw-Correct-IOU-register-base-addre.patch \
+	file://0002-pciepsu-Fix-GCC-warnings.patch \
+	file://0003-pciepsu-Fix-GCC-compilation-warning.patch \
 	"
